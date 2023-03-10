@@ -1,0 +1,9 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 256609196272-n07hskosn4iml1na16mslo9ha1tk3kk3.apps.googleusercontent.com
+            client-secret: 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
+            scope: openid,profile,email,https://www.googleapis.com/auth/youtube

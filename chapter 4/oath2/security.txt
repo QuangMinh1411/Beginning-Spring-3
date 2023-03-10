@@ -1,0 +1,2 @@
+clientID: 256609196272-n07hskosn4iml1na16mslo9ha1tk3kk3.apps.googleusercontent.com
+clientSecret: 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
